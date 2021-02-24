@@ -16,3 +16,6 @@ def solution(people, limit):
         else:
             start+=1
     return answer-tmp
+
+
+#https://programmers.co.kr/learn/courses/30/lessons/42885

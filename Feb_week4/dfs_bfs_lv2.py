@@ -8,3 +8,9 @@ def solution(numbers, target):
     
     
     return solution(numbers[1:],target+numbers[0]) + solution(numbers[1:],target-numbers[0])
+
+
+
+
+
+#https://programmers.co.kr/learn/courses/30/lessons/43165

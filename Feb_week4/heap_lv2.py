@@ -17,3 +17,7 @@ def solution(scoville, K):
             return -1
     
     return answer
+
+
+
+#https://programmers.co.kr/learn/courses/30/lessons/42626
